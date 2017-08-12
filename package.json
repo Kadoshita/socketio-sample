@@ -1,0 +1,23 @@
+{
+  "name": "socketio-sample",
+  "version": "1.0.0",
+  "description": "socket.ioのserverとclient",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kadoshita/socketio-sample.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kadoshita/socketio-sample/issues"
+  },
+  "homepage": "https://github.com/Kadoshita/socketio-sample#readme",
+  "dependencies": {
+    "socket.io": "^2.0.3",
+    "socket.io-client": "^2.0.3"
+  }
+}
